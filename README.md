@@ -99,10 +99,4 @@ Toggle dark mode tersedia di header untuk kenyamanan pengguna dalam berbagai kon
 - Mastery: Badge untuk menguasai topik tertentu
 - Milestone: Badge untuk pencapaian besar
 
-## 📝 License
 
-MIT License - feel free to use this project for learning purposes.
-=======
-# coddy-v.1.0
-coddy adalah website teman belajar coding yang terintegrasi dengan model AI
->>>>>>> d81813d992ce779efef52840c5122c3c9b5c50bf
