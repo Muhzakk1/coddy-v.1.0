@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Coddy - Conversational Learning Platform
 
 Platform pembelajaran coding dengan pendekatan conversational-first, di mana seluruh pengalaman pengguna (onboarding, asesmen, roadmap, tracking) terjadi dalam satu antarmuka chat yang modern dan interaktif.
