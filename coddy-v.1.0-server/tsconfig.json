@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    /* ... opsi lainnya ... */
+    "esModuleInterop": true,        /* Aktifkan ini */
+    "allowSyntheticDefaultImports": true, /* Opsional, biasanya otomatis aktif jika esModuleInterop aktif */
+    "moduleResolution": "node"
+  }
+}
